@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackSawyerWATX
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... java, python, and MERN
-- 💞️ I’m looking to collaborate on ... let me get this stuff down first, then i'll make a plan on what I need to collaborate on!
+- 💞️ I like cool jazz, smoking a sweet cavendish pipe, and writing code. It's where the old meets the new!
 - 📫 How to reach me ... jack.h.sawyer@pm.me
 
 <!---
