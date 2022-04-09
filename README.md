@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jack.
+- 👋 Hello, I’m Jack.
 - 📫 jack.h.sawyer@pm.me
 
 <!---
