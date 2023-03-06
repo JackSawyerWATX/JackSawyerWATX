@@ -1,5 +1,5 @@
-- 👋 Hello, I’m Jack.
-- 📫 jack.h.sawyer@pm.me
+- 👋 Hello, I’m Jonathan.
+- 📫 jonathan.fausset@me.com
 
 <!---
 Look up. Look FORWARD.
