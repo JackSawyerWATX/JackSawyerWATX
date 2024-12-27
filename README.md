@@ -1,4 +1,4 @@
 - 👋 Hello, I’m Jonathan.
-- 📫 jonathan.fausset@me.com
+- 📫 contact@jonathanfausset.com
 
 Look up. Look FORWARD.
